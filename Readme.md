@@ -18,5 +18,5 @@ Usage:
 
 In order to get MNIST as a csv file do
 =============
-Getting mnist: http://yann.lecun.com/exdb/mnist/
-Convert mnist to csv: http://pjreddie.com/projects/mnist-in-csv/
++ Getting mnist: http://yann.lecun.com/exdb/mnist/
++ Convert mnist to csv: http://pjreddie.com/projects/mnist-in-csv/
