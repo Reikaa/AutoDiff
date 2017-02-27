@@ -5,6 +5,7 @@ A simple auto differenciation program for neural networks
 + Implements matrix inner product and gradient
 + Implements element wise sigmoid in gradient
 + Implements small neural network
++ Cant be used for weight sharing though
 
 Installation:
 + install scala
